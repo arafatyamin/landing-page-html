@@ -1,0 +1,32 @@
+/* navbar */
+
+.nav-text{
+    background: linear-gradient(91.33deg, #FFD44F 6.92%, #FF2F74 25.41%, #3CACAE 41.13%, #C26DBC 58.38%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+}
+nav{
+    background-color: #014647;
+}
+.login{
+    background-color: #EEB5EB;
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+}
+.dropdown-menu{
+   
+ background-color: black;
+}
+
+/* top banner */
+.banner{
+    background-image: linear-gradient( #FF387A 76%,#780070 100%)
+}
+
+
+
+/* card */
